@@ -1,0 +1,8 @@
+G:\VISE\VISE\VISE.Web\bin\Debug\VISE.Web.dll
+G:\VISE\VISE\VISE.Web\bin\Debug\VISE.Web.pdb
+G:\VISE\VISE\Assembly\VISE.Web.dll
+G:\VISE\VISE\Assembly\VISE.Web.pdb
+G:\VISE\VISE\VISE.Web\obj\Debug\VISE.Web.csproj.CoreCompileInputs.cache
+G:\VISE\VISE\VISE.Web\obj\Debug\VISE.Web.dll
+G:\VISE\VISE\VISE.Web\obj\Debug\VISE.Web.pdb
+G:\VISE\VISE\VISE.Web\obj\Debug\VISE.Web.csprojAssemblyReference.cache

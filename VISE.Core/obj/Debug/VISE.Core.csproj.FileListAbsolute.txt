@@ -1,0 +1,14 @@
+G:\VISE\VISE\VISE.Core\bin\Debug\VISE.Core.dll
+G:\VISE\VISE\VISE.Core\bin\Debug\VISE.Core.pdb
+G:\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.csprojAssemblyReference.cache
+G:\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.csproj.CoreCompileInputs.cache
+G:\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.dll
+G:\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.pdb
+G:\VISE\VISE\Assembly\VISE.Core.dll
+G:\VISE\VISE\Assembly\VISE.Core.pdb
+E:\Offical\VISE\VISE\Assembly\VISE.Core.dll
+E:\Offical\VISE\VISE\Assembly\VISE.Core.pdb
+E:\Offical\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.csprojAssemblyReference.cache
+E:\Offical\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.csproj.CoreCompileInputs.cache
+E:\Offical\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.dll
+E:\Offical\VISE\VISE\VISE.Core\obj\Debug\VISE.Core.pdb

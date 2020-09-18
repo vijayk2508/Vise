@@ -1,0 +1,8 @@
+G:\VISE\VISE\VISE.Core.Library\bin\Debug\VISE.Core.Library.dll
+G:\VISE\VISE\VISE.Core.Library\bin\Debug\VISE.Core.Library.pdb
+G:\VISE\VISE\VISE.Core.Library\obj\Debug\VISE.Core.Library.csproj.CoreCompileInputs.cache
+G:\VISE\VISE\VISE.Core.Library\obj\Debug\VISE.Core.Library.dll
+G:\VISE\VISE\VISE.Core.Library\obj\Debug\VISE.Core.Library.pdb
+G:\VISE\VISE\Assembly\VISE.Core.Library.dll
+G:\VISE\VISE\Assembly\VISE.Core.Library.pdb
+G:\VISE\VISE\VISE.Core.Library\obj\Debug\VISE.Core.Library.csprojAssemblyReference.cache
